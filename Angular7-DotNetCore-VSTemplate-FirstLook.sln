@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Angular7-DotNetCore-VSTemplate-FirstLook", "Angular7-DotNetCore-VSTemplate-FirstLook\Angular7-DotNetCore-VSTemplate-FirstLook.csproj", "{0B918073-1643-4F7C-8228-564DA8D8DA75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B918073-1643-4F7C-8228-564DA8D8DA75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B918073-1643-4F7C-8228-564DA8D8DA75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B918073-1643-4F7C-8228-564DA8D8DA75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B918073-1643-4F7C-8228-564DA8D8DA75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7AA9199-BAB1-43A0-B8BF-C142ADA1EA72}
+	EndGlobalSection
+EndGlobal
